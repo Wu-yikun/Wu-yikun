@@ -1,13 +1,13 @@
 ### Hey I'm Wu-yikun 👋
 
 - ♟   Null_Pointer
-- 🍻 **Sophomore** At [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
+- 🍻 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - ⚡ C / Java / HTML / CSS / JS
-- 🖋  Writer At [SegmentFault](https://segmentfault.com/)
+- 🖋  Writer at [SegmentFault](https://segmentfault.com/)
 - 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 💖  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
-- 📫 Contact Me With QQ：**577159462**
-- 💬 Welcome To Exchange
+- 📫 Contact me with QQ：**577159462**
+- 💬 Welcome to exchange, Counting on your arrival
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wu-yikun&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
