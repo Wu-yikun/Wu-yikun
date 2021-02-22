@@ -9,7 +9,7 @@
 - 📫 Contact Me With QQ：**577159462**
 - 💬 Welcome To Exchange
 
-![GitHub 数据](https://github-readme-stats.vercel.app/api?username=Wu-yikun)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wu-yikun&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
 [![null-pointer](https://img.shields.io/badge/GitHub-@Wu_Yikun-red?&logo=github&style=plastic)](https://github.com/Wu-yikun)
 
