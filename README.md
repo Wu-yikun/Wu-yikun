@@ -1,6 +1,6 @@
 ### Hey I'm Wu-yikun 👋
 
-- ♟   Null_Pointer
+- ♟ &nbsp;Null_Pointer
 - 🍻 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - ⚡ C / Java / HTML / CSS / JS
 - 🖋  Writer at [SegmentFault](https://segmentfault.com/)
