@@ -1,7 +1,7 @@
 ### Hey I'm Wu-yikun 👋
 
 - ♟   Null_Pointer
-- 🍻 **Sophomore** At 🇨🇳 [FJNU](http://www.fjnu.edu.cn/)
+- 🍻 **Sophomore** At [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - ⚡ C / Java / HTML / CSS / JS
 - 🖋  Writer At [SegmentFault](https://segmentfault.com/)
 - 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
