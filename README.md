@@ -1,15 +1,15 @@
 ### Hey I'm Wu-yikun 👋
 
-- 😄 Null_Pointer — My Pronouns
+- ✨ Null_Pointer
 - 🍻 **Sophomore** At 🇨🇳 [FJNU](http://www.fjnu.edu.cn/)
 - ⚡ C / Java
 - 🖋  Writer At [SegmentFault](https://segmentfault.com/)
 - 💬 Welcome To Exchange
 - 📫 Contact Me With QQ：**577159462**
-- 🏃  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
-- ♟  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
+- 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
+- 💖  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
 
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Wu-yikun)
+![GitHub 数据](https://github-readme-stats.vercel.app/api?username=Wu-yikun)
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/Wu-yikun)   [![Null Pointer](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=Null Pointer&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)]()
 
