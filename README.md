@@ -21,8 +21,8 @@
 
 ### Contact Me
 
-<a href="https://www.facebook.com/Wu-Yikun" target="_blank"><img src="https://img.shields.io/badge/facebook%20@Wu_Yikun-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/WuYikun/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Wu_Yikun-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.facebook.com/Wu-Yikun" target="_blank"><img src="https://img.shields.io/badge/facebook%20@Wu_Yikun-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
+<a href="https://twitter.com/WuYikun/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@Wu_Yikun-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/My%20Website:%20https://github.com/Wuyikun-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/>
 
 <a href="https://github.com/Wu-yikun/wu-yikun.github.io"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Wu-yikun&repo=wu-yikun.github.io&theme=material-palenight" /></a>
