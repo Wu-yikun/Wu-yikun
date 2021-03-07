@@ -2,7 +2,7 @@
 
 - ♟ &nbsp;**Null_Pointer**
 - 🍻 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
-- 🖋  Writer at [SegmentFault](https://segmentfault.com/)
+- 🖋  Writer at [SegmentFault](https://segmentfault.com/) / [掘金](https://juejin.cn/)
 - 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 💖  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
 - 📫 Contact me with QQ：**577159462**
