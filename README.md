@@ -5,7 +5,7 @@
 - 🖋  Writer at [SegmentFault](https://segmentfault.com/) / [掘金](https://juejin.cn/)
 - 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 💖  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
-- 📫 Contact me with QQ：**577159462**
+- 📫 Contact me with QQ：**2367036384**
 - 💬 Welcome to exchange, Counting on your arrival
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wu-yikun&show_icons=true&include_all_commits=true&theme=material-palenight" />
