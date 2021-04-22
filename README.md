@@ -17,7 +17,7 @@
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)![javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)  
 ![c](https://img.shields.io/badge/-c-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)![c++](https://img.shields.io/badge/-c++-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2)![java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)  
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wu-yikun&layout=compact&theme=material-palenight" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wu-Yikun)](https://github.com/Wu-Yikun/github-readme-stats)
 
 ### Contact Me
 
