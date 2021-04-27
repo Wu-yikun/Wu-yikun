@@ -6,7 +6,7 @@
 - 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 💖  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
 - 📫 Contact me with QQ：*2367036384*
-- 💬 Welcome to exchange, Counting on your arrival
+- 💬 Here are some contact info as follows...
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wu-yikun&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
