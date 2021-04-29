@@ -1,6 +1,6 @@
 ### Hey I'm Wu-yikun 👋
 
-- ♟ &nbsp;**One**
+- ♟ &nbsp;**_Octocat**
 - 🍻 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - 🖋  Write at *掘金* && *SegmentFault*
 - 🎶  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
