@@ -1,4 +1,4 @@
-### Hey I'm Wu-yikun 👋
+### Hey I'm Wu-Yikun 👋
 
 - 🌊&nbsp;**_Octocat**
 - 😵 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
