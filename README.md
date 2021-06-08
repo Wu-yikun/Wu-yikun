@@ -1,9 +1,9 @@
 ### Hey I'm Wu-Yikun 👋
 
 - 🌊&nbsp;**_Octocat**
-- 😵 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
+- 🧠 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - 🔥  &nbsp;Driving the quill in ***掘金*** & *SegmentFault* & ***CSDN*** & *知乎*
-- 👻  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
+- 💖  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 🥰  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
 - 🍻 Contact me with QQ：*2367036384*
 
