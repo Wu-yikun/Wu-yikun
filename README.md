@@ -5,7 +5,6 @@
 - 🔥  &nbsp;Driving the quill in ***掘金*** & *SegmentFault* & ***CSDN*** & *知乎*
 - 💖  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 🥰  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
-- 🍻 Contact me with QQ：*2367036384*
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wu-yikun&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
