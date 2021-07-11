@@ -4,7 +4,7 @@
 - 🧠 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - 🔥  &nbsp;Driving the quill in ***掘金*** & *SegmentFault* & ***CSDN*** & *知乎*
 - 🥩  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
-- 💖  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
+- 🎸  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wu-yikun&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
