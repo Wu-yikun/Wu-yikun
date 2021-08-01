@@ -2,7 +2,7 @@
 
 - 🌊&nbsp;**_Kun**
 - 🧠 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
-- 🔥  &nbsp;Driving the quill in ***掘金*** & *SegmentFault* & ***CSDN*** & *知乎*
+- 🔥  &nbsp;Driving the quill in ***掘金*** & ***SegmentFault*** & ***CSDN***
 - 🥩  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 🍺  Chinese Chess / Chess / Rubik's Cube / Extracurricular Books
 
