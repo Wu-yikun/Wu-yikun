@@ -1,6 +1,6 @@
 ### Hey I'm Wu-Yikun 👋
 
-- 🌊&nbsp;**_Kun**
+- 🌊&nbsp;**Kun**
 - 🧠 **Sophomore** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
 - 🔥  &nbsp;Driving the quill in ***掘金*** & ***SegmentFault*** & ***CSDN***
 - 🥩  Runner / Guitarist/ Swimmer / Table Tennis Enthusiast / Programming Newcomer
