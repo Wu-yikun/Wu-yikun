@@ -6,7 +6,7 @@
 
 - 🌊&nbsp;**Author Unknown**
 - 🧠 **Junior** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
-- 🔥  &nbsp;Driving the quill in ***掘金*** & ***SegmentFault*** & ***CSDN***
+- 🔥  &nbsp;Driving the quill in ***掘金*** & ***SegmentFault*** & ***CSDN*** & ***Twitter*** & ***Facebook***
 - 🥩  Fitness Enthusiast / Guitarist / Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 🍺  Chinese Chess / Chess / Rubik's Cube / Extracurricular Book
 
