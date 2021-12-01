@@ -6,7 +6,7 @@
 
 - 🔥&nbsp;&nbsp;**Scorpion!**
 - 💢 **Junior** at [FJNU](http://www.fjnu.edu.cn/) 🇨🇳
-- 🏆  &nbsp;Driving the quill in ***[掘金](https://juejin.cn/)*** & [***StackOverflow***](https://stackoverflow.com/users/16805680/wu-yikun) & ***[SegmentFault](https://segmentfault.com/u/paradox_601112beb17e9/articles)*** & ***[CSDN](https://blog.csdn.net/qq_46221929?spm=1000.2115.3001.5343)*** & ***[Twitter](https://twitter.com/WuYiKkkun)*** & ***[Facebook](https://www.facebook.com/profile.php?id=100073027615250)***
+- 🏆 Driving the quill in ***[掘金](https://juejin.cn/)*** & [***StackOverflow***](https://stackoverflow.com/users/16805680/wu-yikun) & ***[SegmentFault](https://segmentfault.com/u/paradox_601112beb17e9/articles)*** & ***[CSDN](https://blog.csdn.net/qq_46221929?spm=1000.2115.3001.5343)*** & ***[Twitter](https://twitter.com/WuYiKkkun)*** & ***[Facebook](https://www.facebook.com/profile.php?id=100073027615250)***
 - 🥩  Fitness Enthusiast / Guitarist / Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 🍺  Chinese Chess / Chess / Rubik's Cube / Extracurricular Book
 
