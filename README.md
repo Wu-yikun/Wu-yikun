@@ -17,7 +17,7 @@
 
 <a href="https://www.facebook.com/profile.php?id=100073027615250" target="_blank"><img src="https://img.shields.io/badge/facebook%20@Wu YiKun-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 <a href="https://twitter.com/WuYiKkkun/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@WuYiKkkun-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
-<a href="https://wu-yikun.github.io/"><img src="https://img.shields.io/badge/My%20Website:%20https://github.com/Wuyikun-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<a href="https://wu-yikun.top"><img src="https://img.shields.io/badge/My%20Website:%20https://wuyikun.top-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 [![One](https://img.shields.io/badge/GitHub-@Wu_Yikun-red?&logo=github&style=plastic)](https://github.com/Wu-yikun)
 
