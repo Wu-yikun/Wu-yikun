@@ -13,7 +13,7 @@
 
 [![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=Wu-yikun&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/Wu-yikun/)  <img align="right" alt="Coding" width="400" src="http://ww1.sinaimg.cn/large/007ZrBGhly1gudvpgzrwtg60m80gok0f02.gif">
 
-### Contact Me🧠
+### Contact Me 👨‍💻
 
 <a href="https://www.facebook.com/profile.php?id=100073027615250" target="_blank"><img src="https://img.shields.io/badge/facebook%20@Wu YiKun-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a><br>
 <a href="https://twitter.com/WuYiKkkun/" target="_blank"><img src="https://img.shields.io/badge/twitter%20@WuYiKkkun-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a><br>
