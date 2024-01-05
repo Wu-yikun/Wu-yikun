@@ -1,6 +1,4 @@
-<div align=center><img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats"/></div>
-
-<h2 align="center">GitHub Readme Stats</h2>
+![](https://cdn.jsdelivr.net/gh/Wu-yikun/OSS/PicGo/202401051528652.png)
 
 ### About Me 🙋‍♂️
 
@@ -8,7 +6,7 @@
 - 🚀 Writing in ***[掘金](https://juejin.cn/)*** & [***StackOverflow***](https://stackoverflow.com/users/16805680/wu-yikun) & ***[SegmentFault](https://segmentfault.com/u/paradox_601112beb17e9/articles)*** & ***[CSDN](https://blog.csdn.net/qq_46221929?spm=1000.2115.3001.5343)*** & ***[Twitter](https://twitter.com/WuYiKkkun)*** & ***[Facebook](https://www.facebook.com/profile.php?id=100073027615250)***
 - 💖  Fitness Enthusiast / Guitarist / Swimmer / Table Tennis Enthusiast / Programming Newcomer
 - 🌅  Chinese Chess / Chess / Rubik's Cube / Extracurricular Book
-- 🛕 WorkSpace Entrance: https://www.wu-yikun.top/
+- 🛕 WorkSpace Entrance: [https://www.wu-yikun.top/](https://wu-yikun.github.io/)
 
 [![stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=Wu-yikun&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/Wu-yikun/)  <img align="right" alt="Coding" width="400" src="http://ww1.sinaimg.cn/large/007ZrBGhly1gudvpgzrwtg60m80gok0f02.gif">
 
